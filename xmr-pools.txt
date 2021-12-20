@@ -9,6 +9,7 @@ crypton.su
 cryptonote.social
 dook.xyz
 dxpool.com
+ethermine.org
 f2pool.com
 fairhash.org
 fastpool.xyz
